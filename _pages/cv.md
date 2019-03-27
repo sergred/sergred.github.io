@@ -25,7 +25,7 @@ Education
 
 Research Experience
 ======
-* Research Associate, Database Systems and Information Management group (DIMA), TU Berlin (October 2019 – present)
+* Research Associate @ Database Systems and Information Management group (DIMA), TU Berlin (October 2019 – present)
   * Research reproducibility, end-to-end management of data science processes
   * Data management, experimentation in software engineering
 
@@ -59,10 +59,10 @@ Teaching
 
 Skills
 ======
-Programming Languages: Python, Scala, PL/pgSQL, Ruby, Java, C/C++
-Machine Learning Tools: Keras, scikit-learn, Numpy, Pandas \[python\]
-Big Data Frameworks: Apache Spark
-Database Management Systems: PostgreSQL, MongoDB, Oracle
+* Programming Languages: Python, Scala, PL/pgSQL, Ruby, Java, C/C++
+* Machine Learning Tools: Keras, scikit-learn, Numpy, Pandas \[python\]
+* Big Data Frameworks: Apache Spark
+* Database Management Systems: PostgreSQL, MongoDB, Oracle
 
 Publications
 ======
