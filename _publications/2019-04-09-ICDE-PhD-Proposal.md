@@ -8,7 +8,7 @@ Capturing data lineage, metadata, and other artifacts helps reproducing and shar
 overhead for experimenting researchers, and intend to create a novel approach in dataflow and metadata tracking based on the analysis of the experiment source code. The envisioned system will accelerate the research
 process in general, and enable capturing fine-grained meta information by deriving a declarative representation of data science experiments.'
 date: 2019-04-08
-venue: '35th IEEE International Conference on Data Engineering (ICDE 2019)'
+venue: 'the 35th IEEE International Conference on Data Engineering (ICDE)'
 citation: 'S. Redyuk (2019). Automated Documentation of End-to-End Experiments in Data Science. In Ph.D. Symposium track, IEEE 35th International Conference on Data Engineering (ICDE’19), Macau, China'
 ---
 This paper motivates and outlines my Ph.D. project.
