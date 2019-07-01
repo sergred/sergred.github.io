@@ -14,3 +14,5 @@ When end users apply a machine learning (ML) model on new unlabeled data, it is 
 to observe in real-world data. Based on this information, we learn a performance predictor for pretrained black box models, which can be combined with the model, and automatically warns end users in case of unexpected performance drops. We demonstrate the effectiveness of our approach on two models – logistic regression and a neural network, applied to several real-world datasets.
 
 [Download paper here](http://sergred.github.io/files/hilda.reds.pdf)
+
+[Download poster here](http://sergred.github.io/files/poster.reds.hilda.pdf)
