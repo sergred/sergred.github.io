@@ -8,8 +8,6 @@ date: 2019-07-05
 venue: 'the 4th Workshop on Human-In-the-Loop Data Analytics (HILDA)'
 citation: 'S. Redyuk, S. Schelter, T. Rukat, V. Markl, F. Biessmann (2019) Learning to Validate the Predictions of Black Box Machine Learning Models on Unseen Data. HILDA’19, Amsterdam, Netherlands'
 ---
-This paper motivates and outlines my Ph.D. project.
-
 Abstract
 
 When end users apply a machine learning (ML) model on new unlabeled data, it is difficult for them to decide whether they can trust its predictions. Errors or shifts in the target data can lead to hard-to-detect drops in the predictive quality of the model. We therefore propose an approach to assist non-ML experts working with pretrained ML models. Our approach estimates the change in prediction performance of a model on unseen target data. It does not require explicit distributional assumptions on the dataset shift between the training and target data. Instead, a domain expert can declaratively specify typical cases of dataset shift that she expects
