@@ -8,7 +8,7 @@ We propose a data-centric approach to automate data quality validation in such s
 We compute a set of descriptive statistics of new data batches to ingest, and use a machine learning-based novelty detection method to monitor data quality and identify deviations from commonly observed data characteristics. We evaluate our approach against several baselines on five real-world datasets, on both real and synthetically generated errors. We show that our approach detects unspecified errors in many cases, outperforms other automated solutions in terms of predictive performance, and reaches the quality of baselines that are hand-tuned using domain expertise.'
 date: 2021-03-25
 venue: '24th International Conference on Extending Database Technology (EDBT)'
-citation: 'S. Redyuk, Z. Kaoudi, V. Markl, S. Schelter (2021) Automating Data Quality Validation for Dynamic Data Ingestion. EDBT'21, Nicosia, Cyprus'
+citation: 'S. Redyuk, Z. Kaoudi, V. Markl, S. Schelter (2021) Automating Data Quality Validation for Dynamic Data Ingestion. EDBT’21, Nicosia, Cyprus'
 ---
 Abstract
 
